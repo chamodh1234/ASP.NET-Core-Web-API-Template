@@ -80,6 +80,7 @@ Before you begin, ensure you have the following installed:
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) or later
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (LocalDB is sufficient for development)
+- [Postgreql](https://www.postgresql.org/download/)
 - [Git](https://git-scm.com/)
 - [Postman](https://www.postman.com/) or similar API testing tool (optional)
 
